@@ -8,7 +8,27 @@ body {
     text-align: center;
 }
 
-h1 {
+h1, h2  {
     color: white;
-    font-size: 3.12 em;
+}
+
+h1 {
+    font-size: 3.12em;
+}
+
+h2 {
+    font-size: 2.6em;
+}
+
+p {
+    color: gray;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 1em;
+}
+
+.padding {
+    margin-top: 2em;
 }
