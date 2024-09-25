@@ -20,10 +20,14 @@ h2 {
     font-size: 2.6em;
 }
 
-p {
+p , footer {
     color: gray;
 }
 
+footer {
+    text-align: right;
+    font-size: 1.5em;
+}
 .link {
     color: aquamarine;
     font-size: 1em;
